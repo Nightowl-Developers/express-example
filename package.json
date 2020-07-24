@@ -1,5 +1,5 @@
 {
-  "name": "express-testbed",
+  "name": "express-example",
   "version": "1.0.0",
   "description": "An express application designed for testing backend architecture decisions.",
   "main": "index.js",
